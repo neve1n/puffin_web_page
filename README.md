@@ -2,7 +2,7 @@
 
 청각장애인 초보 바리스타를 위한 밀크 스티밍 학습 보조 도구 소개 사이트.
 
-https://neve1n.github.io/puffing_web_page/
+https://neve1n.github.io/puffin_web_page/
 
 ## 로컬 실행
 
