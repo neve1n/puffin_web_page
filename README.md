@@ -10,7 +10,7 @@ https://neve1n.github.io/puffin_web_page/
 python3 -m http.server 4173
 ```
 
-정적 HTML, CSS, JavaScript로 구성되어 별도 빌드가 필요하지 않습니다. GitHub Pages는 `main` 브랜치의 루트(`/`)에서 배포합니다.
+정적 HTML, CSS, JavaScript로 구성되어 별도 빌드가 필요하지 않습니다. GitHub Pages는 `main` 브랜치에 push하면 `.github/workflows/pages.yml`을 통해 정적 파일만 배포합니다.
 
 - `index.html`: 소개, 팀, FAQ
 - `styles.css`: 반응형 디자인
